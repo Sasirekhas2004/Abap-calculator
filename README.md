@@ -42,4 +42,3 @@ This repository provides a straightforward example to help you understand the fo
 
 
 
-<img src="/home/arun/Downloads/image.png" alt="Alt text" width="500" height="300">
