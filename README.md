@@ -41,4 +41,3 @@ Run the program by pressing F9.
 This repository provides a straightforward example to help you understand the foundational steps of ABAP development in a modern, cloud environment.
 
 
-
